@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="Labels">
+    <file>green.png</file>
+    <file>loading.png</file>
+    <file>red.png</file>
+    <file>stem.png</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>down_arrow.png</file>
+    <file>left_arrow.png</file>
+    <file>right_arrow.png</file>
+    <file>up_arrow.png</file>
+    <file>blink.png</file>
+    <file>bot.png</file>
+    <file>car.png</file>
+    <file>checked.png</file>
+    <file>checked_hover.png</file>
+    <file>chip.png</file>
+    <file>code.png</file>
+    <file>download.gif</file>
+    <file>head.png</file>
+    <file>hover.png</file>
+    <file>ninja.png</file>
+    <file>notification.png</file>
+    <file>orange.ico</file>
+    <file>robot-arm.png</file>
+    <file>test.png</file>
+    <file>unchecked.png</file>
+    <file>update.png</file>
+    <file>work.png</file>
+  </qresource>
+  <qresource prefix="GIFs">
+    <file>download.gif</file>
+    <file>loading.gif</file>
+    <file>no_wifi.gif</file>
+    <file>rnd.gif</file>
+    <file>wifi.gif</file>
+  </qresource>
+</RCC>
